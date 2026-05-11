@@ -136,6 +136,6 @@ zoo_bot/
 ## 📞 Контакты зоопарка
 
 - 🌐 Сайт: [moscowzoo.ru](https://moscowzoo.ru)
-- 📧 Email программы опеки: zooclub@moscowzoo.ru
-- 📱 Телефон: +7 (499) 252-35-80
+- 📧 Email программы опеки: zoofriends@moscowzoo.ru
+- 📱 Телефон: +7 (962) 971-38-75
 - 🐾 Программа опеки: [moscowzoo.ru/my-zoo/become-a-guardian](https://moscowzoo.ru/my-zoo/become-a-guardian/)
